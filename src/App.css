@@ -79,6 +79,12 @@ p {
 
   .todoInput input {
     width: auto;
-    padding: 9px 7px;
+    padding: 5px 5px;
+  }
+  .todoInput button{
+    padding: 5px 5px;
+  }
+  .btn{
+    padding: 5px 0px;
   }
 }
